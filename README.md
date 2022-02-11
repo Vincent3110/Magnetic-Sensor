@@ -1,6 +1,6 @@
 # Magnetic-Sensor
 
-The idea of this product is to establish a security deice into the doors, which can confirm if the door is closes and can notify users if they forgot to close, and beyond, it can help users control the opening and closing via magnetic lock.
+This product aims to establish security deice into the doors, which can confirm if the door is closed and can notify users if they forgot to close the door. Beyond, it can help users control the opening and closing via the magnetic lock.
 -------------------------------------------------------------------------
 Implemented a magnetic sensor system with STM32 L432KC, using XBee to establish communication of data between system and server
 
